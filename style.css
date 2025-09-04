@@ -1,0 +1,10 @@
+.infotiles {
+    display: grid;
+}
+.tile {
+    background-color: #114;
+    display: block;
+    padding: 1rem;
+    border-radius: 1.333rem;
+    grid-area: content;
+}

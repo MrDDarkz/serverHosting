@@ -1,0 +1,25 @@
+
+M4 Final: Use A.I to Create a Business Website With Chat Bot
+Task: Create a 4-page business website that has a helpful chatbot using A.I.
+Description of Task: You should imagine you have a business (selling cars, clothing, food, etc) and you need to create a website with a chatbot to answer questions a customer browsing your website might ask.  You should create a homepage, sales page, contacts page and one more of your choice, with the chatbot available on all pages.  Your pages should look professional and have a common style, so they fit together well.  Your website should also be easy to navigate and have multiple images per page.
+The chatbot should be capable of responding to likely user questions but realize your chat bot is going to be “dumb” so you should try and think of a way to make it smart so that it can respond to basic questions.  The way this works is a problem you need to figure out.  You will likely need to experiment with the chatbot and try to work back and forth with the AI to refine it until it responds in a useful way.  
+Examples of questions it should be able to respond to:
+•	How much does delivery cost?
+•	Are you open on weekends?
+•	Do you offer refunds?
+•	Can I pay by credit card?
+You can use any A.I resources you would like for this exercise.
+Project submission: Upload, to the homework drive, a shortcut to a folder containing your work or send a text document containing a link if the website is hosted online.  Deadline is 12th September
+ Score breakdown:
+12% - Business Website: 
+3% - minimum 4 page website.
+3% - Professional style. 
+3% - Suitable user interface and easy to navigate .
+3% - Minimum 2 pictures per page.
+
+8% - Chatbot:
+3% - Chatbot appears on all pages.
+5% - Chatbot can answer various questions related to the business and is somewhat useful.
+
+	
+	
