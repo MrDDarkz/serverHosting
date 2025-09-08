@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="../bootstrap/head.js"></script>
+    <script defer>
+	    function submitLogin() {
+	    	fetch("https://api.ddarkz.xyz/login", {
+			method: "POST", body: new URLSearchParams({userId: document.getElementById("userId")})
+
+		}).then((data) => {
+			document.querySelector("h3").contentText = data
+		})
+	}
+    </script>
+    <title>Server Hosting</title>
+  </head>
+
+  <body>
+    <script src="../bootstrap/bootstrap.js"></script>
+    <main>
+      <div class="logintile">
+	<li class="tile">
+	  <h3>Login</h3>
+	  <form action="login" method="POST">
+	    <input type="text" id="userId" name="userId" required>
+
+	    <button onclick="submitLogin">Submit</button>
+	  </form>
+	</li>
+      </div>
+    </main>
+  </body>
+
+</html>

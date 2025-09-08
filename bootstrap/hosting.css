@@ -1,0 +1,14 @@
+.login {
+	background: #3f4b52;
+	color: var(--text-swap);
+    text-decoration: none;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+	transition: ease-in 350ms;
+	font-size: 1.5rem;
+	font-weight: bold;
+}
+
+.tile {
+  list-style: none;
+}
